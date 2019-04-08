@@ -1,0 +1,53 @@
+U011  (Terrorism involving destruction of aircraft)
+U012 (Terrorism involving other explosions and fragments)
+U014 (Terrorism involving firearms)
+X85
+X86
+X87
+X88
+X89
+X90
+X91
+X92
+X93
+X94
+X95
+X96
+X97
+X98
+X99
+Y00
+Y01
+Y02
+Y03
+Y04
+Y05
+Y060
+Y061
+Y062
+Y068
+Y069
+Y070
+Y071
+Y072
+Y073
+Y078
+Y079
+Y08
+Y09
+Y350
+Y351
+Y352
+Y353
+Y355
+Y356
+Y357
+Y362
+Y364
+Y366
+Y367
+Y368
+Y369
+Y871
+Y890
+Y891 (Sequelae of war operations)
