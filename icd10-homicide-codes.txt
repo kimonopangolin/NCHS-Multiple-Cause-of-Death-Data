@@ -1,3 +1,4 @@
+# Codes with a description are ignored
 U011  (Terrorism involving destruction of aircraft)
 U012 (Terrorism involving other explosions and fragments)
 U014 (Terrorism involving firearms)
